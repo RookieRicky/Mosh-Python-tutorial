@@ -1,0 +1,5 @@
+birth_year = input("when were you born? ")
+print (type(birth_year))
+Age = 2021 - int(birth_year)
+print(type(birth_year))
+print (type(Age))
